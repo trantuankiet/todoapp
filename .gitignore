@@ -1,4 +1,3 @@
 myenv
 __pycache__
-mylist/__pycache__
-todolist/__pycache__
+todolist/__pycache__/
